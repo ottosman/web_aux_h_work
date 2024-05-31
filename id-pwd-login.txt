@@ -1,0 +1,6 @@
+username: benkayserilidegilim
+password: keskekadirabakadariyibiryazilimciolsam
+
+---
+hocam benim web bilgim çok kısıtlı ve bu projeyi internetten yardım alarak yaptım. Kendi denemelerimde ne db conn
+ ne de sayfaların entegresini sağlayabildim. Bu sebebten ötürü internetten çalıştım.
